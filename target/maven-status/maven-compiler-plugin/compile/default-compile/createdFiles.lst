@@ -1,0 +1,5 @@
+interfaces\Shape.class
+application\Client.class
+model\Circle.class
+model\Drawing.class
+model\Triangle.class
